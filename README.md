@@ -1,5 +1,6 @@
 # 🚀 AI-Driven Customer Behavior Analytics
 
+WEBLINK: https://ml-project-1-e9p7.onrender.com
 An end-to-end Machine Learning project designed to analyze customer behavior, predict churn, segment customers, and generate personalized product recommendations. The application provides interactive dashboards and predictive analytics to help businesses make data-driven decisions.
 
 ---
@@ -235,3 +236,4 @@ This project is licensed under the MIT License.
 Developed as a Machine Learning project for Customer Behavior Analytics and Business Intelligence.
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
+
