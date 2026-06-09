@@ -172,17 +172,24 @@ Interactive visualizations provide business insights and customer trends.
 * Customer group analysis
 * Marketing strategy support
 
+  <img width="1471" height="813" alt="Screenshot 2026-06-09 143614" src="https://github.com/user-attachments/assets/03293fa7-7117-4fcf-b425-9d3f67b22e26" />
+
+
 ### Churn Prediction
 
 * Early churn detection
 * Retention strategy insights
 * Probability-based predictions
+  <img width="1532" height="863" alt="Screenshot 2026-06-09 142905" src="https://github.com/user-attachments/assets/2fe7e30b-f62d-47c6-ac64-ebe0e7db206b" />
+
 
 ### Recommendation Engine
 
 * Personalized recommendations
 * Product affinity analysis
 * Customer engagement improvement
+  <img width="1900" height="867" alt="Screenshot 2026-06-09 142918" src="https://github.com/user-attachments/assets/fd28c3c7-8bb1-4202-8f93-e173a9e3cf89" />
+
 
 ### Dashboard
 
@@ -191,7 +198,8 @@ Interactive visualizations provide business insights and customer trends.
 * Sales Analysis
 * Visual Reports
 
----
+<img width="1882" height="856" alt="Screenshot 2026-06-09 142840" src="https://github.com/user-attachments/assets/12aabd47-2f9b-48b5-b687-8a7c0f17d5f5" />
+
 
 ## 📈 Future Enhancements
 
