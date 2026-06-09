@@ -1,6 +1,9 @@
 # 🚀 AI-Driven Customer Behavior Analytics
 
 WEBLINK: https://ml-project-1-e9p7.onrender.com
+
+
+
 An end-to-end Machine Learning project designed to analyze customer behavior, predict churn, segment customers, and generate personalized product recommendations. The application provides interactive dashboards and predictive analytics to help businesses make data-driven decisions.
 
 ---
